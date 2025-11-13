@@ -68,3 +68,5 @@ Complete all the exercises in this assignment and push your code to GitHub using
    npm install mongodb
    node insert_books.js
    node queries.js
+## Screenshot of Books Collection  
+![Books collection screenshot](books_collection_screenshot.png)
