@@ -57,3 +57,14 @@ Complete all the exercises in this assignment and push your code to GitHub using
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+# Week 1: MongoDB – Data Layer Fundamentals and Advanced Techniques
+
+## How to run the scripts
+1. Ensure MongoDB (local server or Atlas) is running and accessible at `mongodb://127.0.0.1:27017`
+2. In this project folder run:
+   ```bash
+   npm init -y
+   npm install mongodb
+   node insert_books.js
+   node queries.js
